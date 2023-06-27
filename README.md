@@ -7,7 +7,7 @@ This repository was created in the Semester 1 of 2022-2023. It stores the group 
 This project is a visual analysis and future trend forecast for the three-year impact of the COVID epidemic on the quality of global game products.The main data comes from Metacritic and contains quality-related data visualization, as well as the training and use of <b>AutoTS</b>, an automatic time prediction sequence.
 
 # Visualization Outputs(Partial Outputs)
-1. All Time Trend
+## 1. All Time Trend
 ![1 1](https://github.com/antiwarp2000/AIDM-7350/assets/113169589/5706030d-827d-4806-9148-fca7b37c07f6)
 ![1 2](https://github.com/antiwarp2000/AIDM-7350/assets/113169589/e9271cbc-564e-446a-8b6e-253217263361)
 ![2](https://github.com/antiwarp2000/AIDM-7350/assets/113169589/0fd610a2-c429-4478-9457-7d47bbfeaf25)
@@ -20,7 +20,7 @@ This project is a visual analysis and future trend forecast for the three-year i
 ![9](https://github.com/antiwarp2000/AIDM-7350/assets/113169589/08103a15-e0cf-4d6b-a8b4-0aa1e90f90d5)
 ![10](https://github.com/antiwarp2000/AIDM-7350/assets/113169589/fb6ddfae-f276-4555-a09f-d83f46d62a53)
 
-2. One_specific_period
+## 2. One_specific_period
 ![1](https://github.com/antiwarp2000/AIDM-7350/assets/113169589/253f9bcf-c30e-4148-9502-af2a02838533)
 ![2](https://github.com/antiwarp2000/AIDM-7350/assets/113169589/7516036f-c6f3-4d24-bbe5-86fd16a89076)
 ![3](https://github.com/antiwarp2000/AIDM-7350/assets/113169589/6a02ad9b-6fd7-4752-ae3b-c1773f3744eb)
@@ -33,14 +33,14 @@ This project is a visual analysis and future trend forecast for the three-year i
 ![10](https://github.com/antiwarp2000/AIDM-7350/assets/113169589/6c48e869-56aa-4b22-95af-30733c50dee9)
 ![11](https://github.com/antiwarp2000/AIDM-7350/assets/113169589/9c755187-65ae-4f26-99bc-e506437975d4)
 
-3. Prediction
+## 3. Prediction
 ![1](https://github.com/antiwarp2000/AIDM-7350/assets/113169589/e75bc827-0c14-4841-acc8-bd1e3c66862c)
 ![2](https://github.com/antiwarp2000/AIDM-7350/assets/113169589/48c2a911-a1e3-43c1-9e7b-4acf42e961de)
 ![3](https://github.com/antiwarp2000/AIDM-7350/assets/113169589/d4584665-9b3d-471f-b94c-b90d3b4f4f72)
 ![4](https://github.com/antiwarp2000/AIDM-7350/assets/113169589/16004c50-aff6-41d7-a144-baed92211251)
 ![5](https://github.com/antiwarp2000/AIDM-7350/assets/113169589/5442a2d6-8b35-4d4e-9b7c-1137d947aefe)
 
-4. Single_company
+## 4. Single_company
 ![1](https://github.com/antiwarp2000/AIDM-7350/assets/113169589/53565cc8-6a4e-405b-9a98-507c96799dc3)
 ![2](https://github.com/antiwarp2000/AIDM-7350/assets/113169589/2b3360d4-ad51-49e6-8f04-e79261de56a9)
 ![4](https://github.com/antiwarp2000/AIDM-7350/assets/113169589/9f984208-2a85-4454-a962-9c6264c66524)
